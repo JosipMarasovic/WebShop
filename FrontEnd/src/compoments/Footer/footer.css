@@ -1,0 +1,10 @@
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-container {
+    background: linear-gradient(rgba(50, 81, 182, 0.5), rgba(0, 0, 0, 0.8));
+
+  }

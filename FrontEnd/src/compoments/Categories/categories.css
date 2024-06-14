@@ -1,0 +1,23 @@
+
+
+.container-padding {
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 5px solid rgba(0, 0, 0, 0.473); 
+}
+
+ 
+.custom-button {
+    background-color: #555555; 
+    border-color: #333333; /* Dark gray border color */
+    color: white; /* Text color */
+    margin-right: 10px; /* Adjust this value as needed */
+    margin-left: 10px; /* Adjust this value as needed */
+  }
+  
+  .custom-button:hover {
+    background-color: #333333; 
+    border-color: #333333;
+    color: white; 
+  }
